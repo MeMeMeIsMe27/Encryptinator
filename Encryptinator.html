@@ -12,28 +12,27 @@
 	var unicriptedNumbers = [];
 	var keyNumbers = [];
 	var key ="";
-	while(key.length < 5){
-	key = prompt("What do you want the password to be? (It must be more than 4 characters)").split("");
+	while(key.length < 6){
+		key = prompt("What do you want the password to be? (It must be more than 7 characters)").split("");
 	}
 	for(var i = 0; i < key.length; i++){
 		keyNumbers.push(key[i].charCodeAt(0))
 	}
 	var key1 = [];
 	var key2 = [];
-	var key3 = key.splice(keyNumbers.indexOf(Math.max.apply(Math,keyNumbers)),1)[0]
-	key3 = String.fromCharCode(key3.charCodeAt(0)+1)
 	for(i = 0; i < Math.max(key.length/2); i++){
 		key1.push(key[i])
 	}
 	for(i = key1.length; i < key.length; i++){
 		key2.push(key[i])
 	}
+	var key3 = key2.splice(0,1)[0]
 	var encriptedNumbers = [];
 	var encripted = "";
 	for(i = 0; i < unincripted.length; i++){
 		unicriptedNumbers.push(unincripted[i].charCodeAt(0))
 	}
-keyNumbers = [];
+	keyNumbers = [];
 	for(i = 0; i < key1.length; i++){
 		keyNumbers.push(key1[i].charCodeAt(0))
 	}
@@ -105,5 +104,5 @@ keyNumbers = [];
 	}
 
 	</script>
-	</body>
-	</html>
+</body>
+</html>

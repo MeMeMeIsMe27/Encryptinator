@@ -1,3 +1,5 @@
-The challange is to make a program that cracks the Encryption and also to find out what this means
-F Ftd   tddFrt enrt b FtFe et rdntFndFtFbFtd netddFrt nertFnrFtFee t r ntFndFtFr tddbdtdrebtderdtFdretFee tFnFntFbebFrtFbbtddretddFrt F ntFnrFt dbetFnrnteebrtFr td nbtddFrt dnetdbrntFrnrt eentrnrdt FntbbFb tdbbnt Fe tFnrFtFee t brntFbrnd t FntbbFb tdbbnt Fe tFnrFtFee t brntFbrnd 
-also the space at the end is part of it
+The challenge is to make a program that cracks the Encryption and also to find out what this means
+
+F Fad   addFra enra b FaFe eaeFnnadFedaFbFad neaddFra neraFnrFaFee aeFdnadFedaFr addbdadrebaderdaFdreaFee aer naFbF bFaFbbaddreaddFra F naFnrFa dbeaerenaFd FaFr ad nbaddFra dneadbrnaFrnrae FnaFenba FnabbFb adbbna Fe aFnrFaFee aeeenaFbFFena FnabbFb adbbna Fe aFnrFaFee aeeenaFbFFen
+
+Also try to find what the key is as well
